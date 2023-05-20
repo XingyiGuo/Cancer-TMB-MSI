@@ -7,7 +7,7 @@ RESULTS: A substantial proportion of MSI-H patients had TMB-low phenotypes acros
 
 CONCLUSION: Our study provides compelling evidence that TMB-H, but not MSI-H, could potentially serve as a biomarker for immunotherapies in cases of lung cancer. The findings suggest that distinct or combined biomarkers should be considered for immunotherapies in human cancers, as significant discrepancies were observed between MSI-H and TMB-H in various cancer types.
 
-![My Image](Fig1A_B.PNG)
+![My Image](Fig1.PNG)
 
 ## Methods
  We analyzed somatic mutation data from the Genomics Evidence Neoplasia Information Exchange (n=46,320) to investigate the relationship between MSI-H and TMB-H in human cancers. Associations between TMB and MSI were evaluated using adjusted multivariable linear regression models. Patient survival analysis was conducted using the Cox proportional hazards model. We also assessed the relationship between MSI and gene mutations.
